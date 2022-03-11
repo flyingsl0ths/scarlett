@@ -1,0 +1,9 @@
+[package]
+name = "scarlett"
+version = "0.0.1"
+edition = "2021"
+description = "A DSL for working with files"
+license = "GPL-3.0-only"
+repository = "https://github.com/flyingsl0ths/scarlett"
+
+[dependencies]
